@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+### buuug7 template
+### Buuug7 template
+
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+.DS_STORE
+*.log*
+*.imi
+.tmp
+out
+gen
+
+node_modules
+dist
