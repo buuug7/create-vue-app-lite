@@ -1,7 +1,7 @@
 <template>
     <div class="hello-world">
-        <h4>Hello world</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <h4>Create Vue App Lite</h4>
+        <p>A start point of your Vue development.</p>
     </div>
 </template>
 
