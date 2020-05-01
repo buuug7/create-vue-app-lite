@@ -10,8 +10,8 @@ import HelloWorld from "./components/HelloWorld.vue";
 export default {
   name: "App",
   components: {
-    HelloWorld
-  }
+    HelloWorld,
+  },
 };
 </script>
 
@@ -19,7 +19,7 @@ export default {
 body {
   background-color: #fff;
   .app {
-    color: red;
+    text-align: center;
   }
 }
 </style>
