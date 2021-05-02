@@ -20,7 +20,3 @@ npm run start
 # or build
 npm run build
 ```
-
-## Format code with prettier
-
-use [prettier](https://prettier.io/) as code formatter. auto format code before every commit by [husky](https://github.com/typicode/husky) git hooks.
