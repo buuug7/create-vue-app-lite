@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <HelloWorld></HelloWorld>
+    <HelloWorld />
   </div>
 </template>
 
@@ -15,11 +15,8 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style>
 body {
   background-color: #fff;
-  .app {
-    text-align: center;
-  }
 }
 </style>
